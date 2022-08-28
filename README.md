@@ -13,7 +13,7 @@ A blackjack game using HTML, CSS, JavaScript, and jQuery! 🃏
 Anything and everything 🤙 let's go!
 
 ## 🤔 I’m looking for help with ... 
-Again, anything and everything. I love contructive feedback! 🙏
+I'm always looking to refine my skillset. Specifically with CSS and vanilla JavaScript at the moment. I love constructive feedback, so don't be shy! 🙏
 
 ## 📫 How to reach me: ...
 Email: maryrossi106@gmail.com
