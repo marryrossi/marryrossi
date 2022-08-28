@@ -1,4 +1,4 @@
-### Hey everyone 🖖 
+# Hey everyone 🖖 
 
 ## About me...
 My name is Mary and I'm a newbie full stack developer 👩‍💻 I currently live in Austin, TX, 📍 but I'm a nomad at heart so you will typically find me traveling somewhere around the world 🌎 When I'm not coding my life away or exploring new cities, I love to workout, spend quality time with my loved ones, and focus on my self care.🧖‍♀️ 
