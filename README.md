@@ -7,13 +7,13 @@ My name is Mary and I'm a newbie full stack developer 👩‍💻 I currently li
 I'm currently enrolled in General Assembly's full stack, software engineering bootcamp. We are primariy focusing on HTML, CSS, JavaScript, jQuery, React, Ruby, and Python. I graduate on October 31st 👩‍🎓 just in time for Halloween! 👻 
 
 ## 🔭 I’m currently working on ...
-A blackjack game using HTML, CSS, JavaScript, and jQuery! 🃏
+A Clash Royale deck generator 🎮
 
 ## 👯 I’m looking to collaborate on ...
 Anything and everything 🤙 let's go!
 
 ## 🤔 I’m looking for help with ... 
-I'm always looking to refine my skillset. Specifically with CSS and vanilla JavaScript at the moment. I love constructive feedback, so don't be shy! 🙏
+I'm always looking to refine my skillset. I love constructive feedback, so don't be shy! 🙏
 
 ## 📫 How to reach me: ...
 Email: maryrossi106@gmail.com
