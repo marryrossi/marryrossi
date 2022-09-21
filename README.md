@@ -17,12 +17,10 @@ I'm always looking to refine my skillset. I love constructive feedback, so don't
 
 ## 📫 How to reach me: ...
 Email: maryrossi106@gmail.com
-Instagram: marry_rossi
-
-(PSA sometimes I spell my name with 1 'r' *Mary* and sometimes 2 *Marry* so just be aware when you are searching me!)
+Instagram: @marry_rossi
 
 <!--
-**marryrossi/marryrossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**maryrossi/maryrossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - ⚡ Fun fact: ...
 -->
