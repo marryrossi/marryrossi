@@ -16,7 +16,7 @@ Python,
 Django,
 & Ruby!
 
-![techcool](https://user-images.githubusercontent.com/91991422/195943308-f0175d68-f80a-4a1f-bf68-4ba90beaa942.gif)
+![girlcode](https://user-images.githubusercontent.com/91991422/195952571-6b8df646-97b9-49af-9088-47edd2562cf8.gif)
 
 # 📫 How to reach me...
 Email: maryrossi106@gmail.com 
