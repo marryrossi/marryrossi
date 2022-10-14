@@ -4,19 +4,17 @@
 My name is Mary and I'm a full stack developer 👩‍💻 I currently live in Austin, TX, 📍 but I'm a nomad at heart so you will typically find me traveling somewhere around the world 🌎 
 
 ## 💻 Technologies I know ...
-HTML
-CSS
-JavaScript
-React
-jQuery
-Express
-JSON
-SQL
-Python
-Ruby
-
-## 🔭 I’m currently working on ...
-A Clash Royale deck generator 🎮
+HTML, 
+CSS,
+JavaScript,
+React,
+jQuery,
+Express,
+JSON,
+SQL,
+Python,
+Django,
+& Ruby!
 
 ## 📫 How to reach me: ...
 Email: maryrossi106@gmail.com
